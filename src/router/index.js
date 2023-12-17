@@ -2,11 +2,11 @@
 import { createRouter, createWebHistory } from 'vue-router'
 const routes = [
     {
-        path: '/vite_project_deploy/',
+        path: '/',
         component: () => import('../components/HelloWorld.vue')
     },
     {
-        path: '/vite_project_deploy/vue1',
+        path: '/vue1',
         component: () => import('../views/vue1.vue')
     },
 ]

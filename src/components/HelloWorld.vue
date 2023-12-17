@@ -11,8 +11,8 @@ const count = ref(0)
 <template>
   <h1>{{ msg }}</h1>
 
-  <a href="/vite_project_deploy/vue1">
-    <h1>Hello chuyển trang</h1>
+  <a href="/vue1">
+    <h1>Hello chuyển trang1</h1>
   </a>
 </template>
 
